@@ -1,7 +1,3 @@
-# facebook-login-page-clone
-A fully responsive clone of the Facebook login page created using HTML, CSS, and PHP. This project was built for educational purposes to practice replicating professional user interfaces and improve web development skills.
-
-
 # Facebook Login Page Clone  
 
 This is a fully responsive clone of the Facebook login page. The project was developed for **educational purposes only** and is not affiliated with or endorsed by Meta Platforms, Inc.  
